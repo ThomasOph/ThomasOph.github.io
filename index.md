@@ -24,7 +24,7 @@
               <div class="myself-text">
                 <p>My name is Thomas and I'm 30 years old. <br>I live together with my fiance Lauren and our little dog Bo, we have a wedding planned in July 2022!</p>
                 <br>
-                <p>Originally I studied to become a carpenter, while working as a carpenter I used to wite automation software to simplify the workflow towards CNC machines.</p>
+                <p>Originally I studied to become a carpenter, while working as a carpenter I used to write automation software to simplify the workflow towards CNC machines.</p>
                 <br>
                 <p>Over the years I got more passionate about programming and that lead me to Switchfully.</p>
               </div>
